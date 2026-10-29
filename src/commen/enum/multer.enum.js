@@ -1,0 +1,4 @@
+export const FileTypeEnum = {
+  image: ["image/png", "image/jpeg", "image/jpg"],
+  pdf: ["application/pdf"],
+};
